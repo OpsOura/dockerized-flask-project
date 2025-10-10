@@ -218,7 +218,7 @@ You’ve just built your own **mini DevOps pipeline**, similar to what real comp
 
 ##  Credits
 
-This project is part of the **DevOps Capstone Series** — a simplified, beginner-friendly approach to real-world DevOps tools and workflows.
+This project is part of the **DevOps Capstone Series** - a simplified, beginner-friendly approach to real-world DevOps tools and workflows.
 
 ```
 
