@@ -87,7 +87,7 @@ CREATE TABLE messages (
 
 ---
 
-## ⚡ Step 5: Set Up CI/CD with GitHub Actions
+##  Step 5: Set Up CI/CD with GitHub Actions
 
 Create a new folder and workflow file:
 
